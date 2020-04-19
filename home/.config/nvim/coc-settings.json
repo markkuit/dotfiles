@@ -1,0 +1,47 @@
+{
+  "coc.preferences.echodocSupport": true,
+  "coc.preferences.jumpCommand": "split",
+  "languageserver": {
+    "golang": {
+      "command": "gopls",
+      "rootPatterns": [
+        "go.mod",
+        ".vim/",
+        ".git/",
+        ".hg/"
+      ],
+      "filetypes": [
+        "go"
+      ]
+    },
+    /* "php": { */
+    /*   "command": "intelephense", */
+    /*   "args": ["--stdio"], */
+    /*   "filetypes": ["php"], */
+    /*   "initializationOptions": { */
+    /*     "storagePath": "/tmp/intelephense" */
+    /*   } */
+    /* }, */
+    "ruby": {
+      "command": "srb",
+      "args": [
+        "tc",
+        "--typed",
+        "true",
+        "--enable-all-experimental-lsp-features",
+        "--lsp",
+        "--disable-watchman",
+        "--dir",
+        "."
+      ],
+      "filetypes": [
+        "ruby"
+      ],
+      "rootPatterns": [
+        "sorbet/config"
+      ],
+      "initializationOptions": {},
+      "settings": {}
+    }
+  }
+}

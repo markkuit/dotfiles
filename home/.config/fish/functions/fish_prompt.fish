@@ -1,0 +1,1 @@
+/home/markkuit/.local/share/omf/themes/perryh/fish_prompt.fish

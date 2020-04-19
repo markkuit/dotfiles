@@ -1,0 +1,19 @@
+call plug#begin()
+Plug 'fatih/vim-go'
+Plug 'neoclide/coc.nvim', {'branch': 'release'}
+Plug 'preservim/nerdtree'
+Plug 'Xuyuanp/nerdtree-git-plugin'
+Plug 'jistr/vim-nerdtree-tabs'
+Plug 'mkitt/tabline.vim'
+Plug 'airblade/vim-gitgutter'
+Plug 'preservim/nerdcommenter'
+Plug 'tpope/vim-fugitive'
+Plug 'junegunn/gv.vim'
+Plug 'NLKNguyen/papercolor-theme'
+Plug 'Shougo/echodoc.vim'
+Plug 'jiangmiao/auto-pairs'
+Plug 'neoclide/jsonc.vim'
+Plug 'jreybert/vimagit'
+Plug 'vim-airline/vim-airline'
+Plug 'terryma/vim-multiple-cursors'
+call plug#end()

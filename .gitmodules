@@ -1,0 +1,69 @@
+[submodule "home/.config/nvim/plugged/coc.nvim"]
+	path = home/.config/nvim/plugged/coc.nvim
+	url = https://github.com/neoclide/coc.nvim.git
+[submodule "home/.config/nvim/plugged/vim-go"]
+	path = home/.config/nvim/plugged/vim-go
+	url = https://github.com/fatih/vim-go.git
+[submodule "home/.config/nvim/plugged/nerdtree-git-plugin"]
+	path = home/.config/nvim/plugged/nerdtree-git-plugin
+	url = https://github.com/Xuyuanp/nerdtree-git-plugin.git
+[submodule "home/.config/nvim/plugged/nerdtree"]
+	path = home/.config/nvim/plugged/nerdtree
+	url = https://github.com/preservim/nerdtree.git
+[submodule "home/.config/nvim/plugged/vim-nerdtree-tabs"]
+	path = home/.config/nvim/plugged/vim-nerdtree-tabs
+	url = https://github.com/jistr/vim-nerdtree-tabs.git
+[submodule "home/.config/nvim/plugged/tabline.vim"]
+	path = home/.config/nvim/plugged/tabline.vim
+	url = https://github.com/mkitt/tabline.vim.git
+[submodule "home/.config/nvim/plugged/vim-gitgutter"]
+	path = home/.config/nvim/plugged/vim-gitgutter
+	url = https://github.com/airblade/vim-gitgutter.git
+[submodule "home/.config/nvim/plugged/nerdcommenter"]
+	path = home/.config/nvim/plugged/nerdcommenter
+	url = https://github.com/preservim/nerdcommenter.git
+[submodule "home/.config/nvim/plugged/vim-fugitive"]
+	path = home/.config/nvim/plugged/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive.git
+[submodule "home/.config/nvim/plugged/gv.vim"]
+	path = home/.config/nvim/plugged/gv.vim
+	url = https://github.com/junegunn/gv.vim.git
+[submodule "home/.config/nvim/plugged/syntastic"]
+	path = home/.config/nvim/plugged/syntastic
+	url = https://github.com/vim-syntastic/syntastic.git
+[submodule "home/.config/nvim/plugged/papercolor-theme"]
+	path = home/.config/nvim/plugged/papercolor-theme
+	url = https://github.com/NLKNguyen/papercolor-theme.git
+[submodule "home/.config/nvim/plugged/echodoc.vim"]
+	path = home/.config/nvim/plugged/echodoc.vim
+	url = https://github.com/Shougo/echodoc.vim.git
+[submodule "home/.config/nvim/plugged/coc-phpls"]
+	path = home/.config/nvim/plugged/coc-phpls
+	url = https://github.com/marlonfan/coc-phpls.git
+[submodule "home/.config/nvim/plugged/auto-pairs"]
+	path = home/.config/nvim/plugged/auto-pairs
+	url = https://github.com/jiangmiao/auto-pairs.git
+[submodule "home/.config/nvim/plugged/jsonc.vim"]
+	path = home/.config/nvim/plugged/jsonc.vim
+	url = https://github.com/neoclide/jsonc.vim.git
+[submodule "home/.config/nvim/plugged/vimagit"]
+	path = home/.config/nvim/plugged/vimagit
+	url = https://github.com/jreybert/vimagit.git
+[submodule "home/.config/nvim/plugged/vim-airline"]
+	path = home/.config/nvim/plugged/vim-airline
+	url = https://github.com/vim-airline/vim-airline.git
+[submodule "home/.config/nvim/plugged/vim-multiple-cursors"]
+	path = home/.config/nvim/plugged/vim-multiple-cursors
+	url = https://github.com/terryma/vim-multiple-cursors.git
+[submodule "home/.local/share/omf"]
+	path = home/.local/share/omf
+	url = https://github.com/oh-my-fish/oh-my-fish
+[submodule "home/.tmux/plugins/tpm"]
+	path = home/.tmux/plugins/tpm
+	url = https://github.com/tmux-plugins/tpm
+[submodule "home/.tmux/plugins/tmux-sensible"]
+	path = home/.tmux/plugins/tmux-sensible
+	url = https://git::@github.com/tmux-plugins/tmux-sensible
+[submodule "home/.tmux/plugins/tmux-cpu"]
+	path = home/.tmux/plugins/tmux-cpu
+	url = https://git::@github.com/tmux-plugins/tmux-cpu

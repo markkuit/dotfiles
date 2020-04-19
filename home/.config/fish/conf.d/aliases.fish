@@ -1,0 +1,7 @@
+alias top="top -d1"
+alias mtr="mtr -b --curses"
+alias g="glances -1 -t 1.3"
+alias l="ls --color=always -lah"
+alias t="tmux new -A -s def"
+alias oathtool-totp="oathtool --totp -b -d 6"
+alias vim="nvim"
